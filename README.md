@@ -29,7 +29,7 @@ Developed a machine learning model to predict **house prices in King County** ba
 Performed **exploratory data analysis (EDA)** on Microsoft’s **Box Office dataset** to identify key factors influencing movie success. The project provides insights into film industry trends using data-driven analysis.
 
 ## 🚀 Technologies Used
-- **Python, Jupyter Notebooks, TensorFlow, PyTorch, Scikit-Learn**
+- **Python, Rust, Jupyter Notebooks, TensorFlow, PyTorch, Scikit-Learn**
 - **NLP (NLTK, SpaCy, Hugging Face Transformers)**
 - **Deep Learning (CNNs, Transfer Learning, Computer Vision)**
 - **Blockchain Development & Smart Contracts**
